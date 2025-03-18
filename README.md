@@ -15,7 +15,7 @@ Bilgisayar mühendisliği öğrencisi ve yazılım geliştiriciyim. Özellikle *
 - 📌 **YOLO ile Nesne Tespiti:** SSD backbone kullanarak optimizasyon  
 
 ## 📫 Bana Ulaşın  
-- **LinkedIn:** [https://www.linkedin.com/in/bugrayalcin8](https://www.linkedin.com/in/bugrayalcin8)  
+- **LinkedIn:** [linkedin.com/in/bugrayalcin8](https://www.linkedin.com/in/bugrayalcin8)  
 - **GitHub:** [github.com/k0laa](https://github.com/k0laa)  
 - **E-posta:** bugrayalcn1@gmail.com  
 

@@ -37,5 +37,4 @@ Here are some ideas to get you started:
 -->
 
 
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=dark&font=Gluten)
+![LeetCode Stats](https://leetcard.jacoblin.cool/kolaa_?theme=dark&font=Gluten)

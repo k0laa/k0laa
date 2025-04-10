@@ -35,3 +35,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=dark&font=Gluten)

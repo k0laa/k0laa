@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k0laa&show_icons=true&theme=highcontrast&title_color=f12eff&text_color=ededed&locale=en&layout=compact" alt="Top Langs" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=0alduin0&show_icons=true&theme=highcontrast&title_color=f12eff&text_color=ededed&locale=en" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=k0laa&show_icons=true&theme=highcontrast&title_color=f12eff&text_color=ededed&locale=en" alt="Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0alduin0&theme=dark" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=k0laa&theme=dark" alt="Streak" />
 </p>

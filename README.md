@@ -39,6 +39,3 @@ Here are some ideas to get you started:
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kolaa_?theme=dark&font=Gluten)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=k0laa&show_icons=true&theme=highcontrast&title_color=f12eff&text_color=ededed&locale=en" alt="Stats" />
-</p>

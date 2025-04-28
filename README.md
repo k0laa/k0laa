@@ -39,3 +39,10 @@ Here are some ideas to get you started:
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kolaa_?theme=dark&font=Gluten)
 
+ <p align="left">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k0laa&show_icons=true&theme=highcontrast&title_color=f12eff&text_color=ededed&locale=en&layout=compact" alt="Top Langs" />
+   <br />
+   <img src="https://github-readme-stats.vercel.app/api?username=k0laa&show_icons=true&theme=highcontrast&title_color=f12eff&text_color=ededed&locale=en" alt="Stats" />
+   <br />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=k0laa&theme=dark" alt="Streak" />
+ </p>

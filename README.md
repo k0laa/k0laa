@@ -45,7 +45,7 @@
 
 ---
 
-<h2 align="center">📫 Belimle İletişime Geç</h2>
+<h2 align="center">📫 Benimle İletişime Geçin</h2>
 
 <p align="center">
   <b>⭐️ GitHub profilimi ziyaret ettiğin için teşekkürler!</b><br>

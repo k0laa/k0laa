@@ -46,7 +46,17 @@
 ---
 
 <h2 align="center">📫 Belimle İletişime Geç</h2>
+
 <p align="center">
+  <b>⭐️ GitHub profilimi ziyaret ettiğin için teşekkürler!</b><br>
+  <i>Yıldız atmayı unutma!</i>
+</p>
+<!-- Eğlenceli GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180">
+</p>
+<!-- Bağlantılar -->
+<p align="right">
   <a href="https://linkedin.com/in/bugrayalcin8" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
@@ -55,17 +65,7 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  <b>⭐️ GitHub profilimi ziyaret ettiğin için teşekkürler!</b><br>
-  <i>Yıldız atmayı unutma!</i>
-</p>
-<!-- Eğlenceli GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
-</p>
-
 
 > ⭐️ From [k0laa](https://github.com/k0laa)
+
 

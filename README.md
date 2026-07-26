@@ -1,71 +1,49 @@
-<!-- Ziyaretçi Sayacı -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=k0laa&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="k0laa" />
+<p align="center">
+  <img src="./assets/header.svg" alt="Buğra Yalçın" width="100%" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1BF760&width=435&lines=%F0%9F%91%8B+Merhaba%2C+Ben+Bu%C4%9Fra+Yal%C3%A7%C4%B1n!;+G%C3%B6m%C3%BCl%C3%BC+Sistemler+%26+AI+Geli%C5%9Ftiricisi" alt="Typing SVG" / />
+  <a href="https://linkedin.com/in/bugrayalcin8"><img src="https://img.shields.io/badge/LinkedIn-0B0F14?style=flat-square&logo=linkedin&logoColor=3AA9FF" /></a>
+  <a href="mailto:bugrayalcn1@gmail.com"><img src="https://img.shields.io/badge/Mail-0B0F14?style=flat-square&logo=gmail&logoColor=7C5CFF" /></a>
+  <img src="https://komarev.com/ghpvc/?username=k0laa&label=views&color=0B0F14&style=flat-square" />
 </p>
+
+```console
+$ cat about.txt
+sensörden modele, modelden arayüze — zincirin tamamını kurarım.
+şu an: dengesiz veri setlerinde çok amaçlı hiperparametre optimizasyonu.
+hedef: savunma sanayi ve otonom sistemler.
+```
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,pytorch,tensorflow,sklearn,opencv,arduino,raspberrypi,ros,fastapi,flask,react,flutter,unity,docker,linux,git&perline=19" />
 </p>
 
----
+<br>
 
-<!-- Profil -->
-<h2 align="center">🌟 Kısaca Ben</h2>
-<p align="center">
-  👨‍💻 Gömülü sistemler, AI ve web teknolojileriyle haşır neşirim.<br>
-  💡 Günlük hayat problemlerime kod yazarak çözümler üretiyorum.<br>
-  🎮 Unity ve PhotonNetwork kullanarak çok oyunculu oyunlar yapıyorum.<br>
-  🧠 Bilgimi açık kaynakla paylaşmayı seviyorum.<br>
-  🌍 Hedefim savunma sanayi ve otonom sistemlerde AI ile fark yaratmak!
-</p>
+### Projeler
 
----
+**`can-bağı`**  ·  ESP32 mesh ağ ile altyapısız afet haberleşmesi
+<sub>painlessMesh · FastAPI · React/Flutter — 🥇 EBST Hackathon 2026</sub> · [repo](https://github.com/k0laa/can_bagi)
 
-<h2 align="center">🧰 Kullandığım Teknolojiler </h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cs,java" /> <br>
-  <img src="https://skillicons.dev/icons?i=qt,arduino,unity,github" /><br>
-  <img src="https://skillicons.dev/icons?i=sqlite,flask,selenium,opencv,sklearn,tensorflow" /><br>
-  <img src="https://skillicons.dev/icons?i=git,md,pycharm,ubuntu,ros" />
-</p>
+**`mo-hpo`**  ·  sınıf dengesizliğini yeniden örnekleme yerine arama uzayı problemi olarak çözer
+<sub>NSGA-II · Optuna · LightGBM — CICIDS2017'de macro-F1 0.67 → 0.89</sub>
 
----
+**`obs-bot`**  ·  not değişince telegram'a düşer
+<sub>CAPTCHA OCR · JSON diff · GitHub Actions, 30 dk cron</sub>
 
-<!-- GitHub İstatistik Kartları -->
-<h2 align="center">📊 GitHub İstatistikleri</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k0laa&show_icons=true&theme=tokyonight&hide_title=false&count_private=true&include_all_commits=true" width="33%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=k0laa&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" width="35%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k0laa&layout=compact&theme=tokyonight" width="25.2%" />
-</p>
+**`yankı`**  ·  sonarla görülen birinci şahıs korku oyunu
+<sub>raycast şematik görüş · URP karanlık shader — 🥈 BANÜ Game Jam</sub>
 
----
+<br>
 
-<h2 align="center">📫 Benimle İletişime Geçin</h2>
+### Aktivite
 
 <p align="center">
-  <b>⭐️ GitHub profilimi ziyaret ettiğin için teşekkürler!</b><br>
-  <i>Yıldız atmayı unutma!</i>
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="185" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="185" />
 </p>
-<!-- Eğlenceli GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180">
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" height="185" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="185" />
 </p>
-<!-- Bağlantılar -->
-<p align="right">
-  <a href="https://linkedin.com/in/bugrayalcin8" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="mailto:bugrayalcn1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-
-> ⭐️ From [k0laa](https://github.com/k0laa)
-
-

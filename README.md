@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.png" alt="Buğra Yalçın" width="100%" />
+  <img src="./assets/header-small.png" alt="Buğra Yalçın" width="100%" />
 </p>
 
 
